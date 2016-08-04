@@ -1,0 +1,44 @@
+_repo: Fanny-Herself_350
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ferber, Edna
+    birthdate: 1885
+    deathdate: 1968
+    gutenberg_agent_id: '193'
+    url: http://www.gutenberg.org/2009/agents/193
+    wikipedia: http://en.wikipedia.org/wiki/Edna_Ferber
+description: A warm, wry, and witty chronicle of a young girl growing up Jewish in
+  a small midwestern town at the turn of the 20th century. Packed with the warmth
+  and the wry, sidelong, wit that made Ferber one of the best-loved writers of her
+  time, the novel charts Fanny's emotional growth through her relationship with her
+  mother, the shrewd, sympathetic Molly Brandeis. Fanny's ambivalent feelings about
+  being Jewish, her self-deprecating attitude toward her gift for sketching and drawing,
+  and her inspired success as a businesswoman all contribute to the flesh-and-blood
+  complexity of Ferber's youthful, eminently believable protagonist. Fanny Herself
+  showcases the author's enduring interest in the capacity of strong women to transcend
+  the limitations of their environment and control their own circumstances. Through
+  Fanny's honest struggle with conflicting values--financial security and corporate
+  success versus altruism and artistic integrity -- Ferber grapples with some of the
+  most deeply embedded contradictions of the American spirit.
+gutenberg_issued: '2008-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '350'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcc 'PS'
+- !lcsh 'Wisconsin -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Jewish girls -- Fiction'
+- !lcsh 'Jewish families -- Fiction'
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcsh 'Jewish fiction'
+- GITenberg
+title: Fanny Herself
+url: http://www.gutenberg.org/ebooks/350
