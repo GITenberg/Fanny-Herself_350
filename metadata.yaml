@@ -1,5 +1,8 @@
 _repo: Fanny-Herself_350
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ferber, Edna
@@ -21,6 +24,8 @@ description: A warm, wry, and witty chronicle of a young girl growing up Jewish 
   Fanny's honest struggle with conflicting values--financial security and corporate
   success versus altruism and artistic integrity -- Ferber grapples with some of the
   most deeply embedded contradictions of the American spirit.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/350#Fanny-Herself
 gutenberg_issued: '2008-07-03'
 gutenberg_type: Text
 identifiers:
